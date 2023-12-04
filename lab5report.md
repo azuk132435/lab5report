@@ -17,8 +17,10 @@ TA response: Take a look at the documentaion for java.util.Arrays and make sure 
 student reponse: After looking into the documentation I saw that when using the .equals it doesn't check for whether the contents have the same stuff it checks for an exact order! From this I knew to sort both Arrays (Arrays.sort() the s and t array), because anagrams
 have the same number of letters for each word. So if checking if these contents now match we can determine whether the words are anagrams. Thank you so much! <br>
 ![Image](lab 5 - rightjava.JPG)<br>
+![Image](lab 5 - fixed.JPG)<br>
 
-Here is all the information:
+Here is all the information: <br>
+
 ![Image](lab 5 - filedirectory.JPG)<br>
 ![Image](lab 5 - wrongjava.JPG)<br>
 ![Image](lab 5 - test.JPG)<br>
