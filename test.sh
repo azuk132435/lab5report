@@ -1,4 +1,5 @@
 javac Anagram.java
-java Anagram
+java Anagram << EOF
 joe 
 eoj
+EOF
