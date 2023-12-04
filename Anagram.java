@@ -7,7 +7,7 @@ public class Anagram {
       char[] sArray = s.toCharArray();
       char[] tArray = t.toCharArray();
       Arrays.sort(sArray);
-      Arrays.srot(tArray);
+      Arrays.sort(tArray);
       return Arrays.equals(sArray, tArray);
     }
   }
