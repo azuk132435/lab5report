@@ -1,5 +1,5 @@
 # Lab Report 5 <br>
-** Part 1 ** <br>
+**Part 1** <br>
 
 For starters I decided to create a new scenario in which I created a new repository in which I had a java file that was made to check if two strings were anagrams of one another (student-made) and a bash file to correctly compile and run the code, using input
 that was found in a seperate text file (can be changed to test whatever words you want to test).
@@ -25,8 +25,8 @@ Here is all the information:
 ![Image](lab 5 - bug.JPG)<br>
 As stated in the student response found that they needed to sort both arrays before using equals because it checks for exact copies of one another.<br>
 
-** Part 2 ** <br>
+**Part 2** <br>
 Going through this class has honestly been one of the coolest computer science related classes I have taken as it allowed me to learn the usage of terminal as a whole. One of the coolest parts for me was working with bash code and trying to create an auto-grader
 that can effertively go through a bunch of submissions and return the scores and errors of all the students did. Doing something like that I never considered I would be able to do so early into learning computer science but it was very fascinating 
 to learn. One really useful part for me that I think was cool was learning how to effectively go through a ton of files and look through them with different commands from the terminal. While vim was mentioned to not be useful I found it fascinating the fact that you
-could even freely open the files in your terminal and edit them. <br>
+could even freely open the files in your terminal and edit them. Overall this class was very fascinating and I felt like I learned so much new information that will be used in my future! <br>
