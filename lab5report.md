@@ -7,6 +7,9 @@ that was found in a seperate text file (can be changed to test whatever words yo
 EdStem post: Hi, when I was working on our anagram assignment code I though I properly addressed how to check if two words were anagrams, however when I ran my code and tested it despite them being anagrams of one another
 my code returned that they weren't anagrams. I am not too sure what could have been incorrect? Here are all my files and the resulting incorrect output that resulted. <br>
 
+![Image](lab 5 - filedirectory.JPG)<br>
+![Image](lab 5 - wrongjava.JPG)<br>
+![Image](lab 5 - test.JPG)<br>
 ![Image](lab 5 - bug.JPG)<br>
 
 
